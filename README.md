@@ -4,36 +4,14 @@
 
 ## Usage
 
-Since these templates are not published to NPM, you'll need to clone this repo, and run the following (replacing the path with your local path):
+### [cra-template-aws-amplify](js/cra-template-aws-amplify/README.md)
 
 ```bash
-npx create-react-app react-amplified --template file:/Volumes/workplace/create-react-app-amplify-templates/js/cra-template-amplify-base &&
-cd react-amplified &&
-yarn &&
-amplify init &&
-yarn start
+npx create-react-app my-amplify-app --template aws-amplify
 ```
-
-## cra-template-amplify-base
-
-Basic template that installs Amplify + Amplify UI, and adds the configuration step to `index.js`.
-
-## cra-template-amplify-ui
-
-Same as `cra-template-amplify-base`, but with Amplify UI components + navigation using React Router.
-
-## cra-template-amplify-ui
-
-Same as `cra-template-amplify-base`, but with html UI components + navigation using React Router.
-
-## `ts` templates
-
-Same as the above, but with TypeScript.
 
 ## Reference
 
-- [Getting Started](https://create-react-app.dev/docs/getting-started) – How to create a new app.
-- [User Guide](https://create-react-app.dev) – How to develop apps bootstrapped with Create React App.
-- [Amplify Docs](https://docs.amplify.aws/) -
+- [Amplify Docs](https://docs.amplify.aws/) - Get started with AWS Amplify
 
 _This is a personal project - opinions are my own_
