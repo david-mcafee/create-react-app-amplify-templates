@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Basic Create React App template for AWS Amplify
+
+For additional templates that include UI components, basic routing, etc, see my [AWS Amplify CRA Templates](https://github.com/david-mcafee/create-react-app-amplify-templates) repo.
+
+The following is from the original CRA README.md file:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

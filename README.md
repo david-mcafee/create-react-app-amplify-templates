@@ -35,3 +35,5 @@ Same as the above, but with TypeScript.
 - [Getting Started](https://create-react-app.dev/docs/getting-started) – How to create a new app.
 - [User Guide](https://create-react-app.dev) – How to develop apps bootstrapped with Create React App.
 - [Amplify Docs](https://docs.amplify.aws/) -
+
+_This is a personal project - opinions are my own_

@@ -1,0 +1,36 @@
+{
+  "name": "cra-template-aws-amplify",
+  "author": {
+    "name": "David McAfee",
+    "email": "d.mcafee712@gmail.com",
+    "url": "http://www.davidmcafee.com/"
+  },
+  "version": "1.0.0",
+  "keywords": [
+    "aws",
+    "amplify",
+    "cra",
+    "cra-template",
+    "create-react-app",
+    "react",
+    "template"
+  ],
+  "description": "Base template for Create React App + AWS Amplify",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/david-mcafee/create-react-app-amplify-templates.git",
+    "directory": "js/cra-template-aws-amplify"
+  },
+  "homepage": "https://www.davidmcafee.com/cra-templates",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/david-mcafee/create-react-app-amplify-templates/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
