@@ -6,9 +6,7 @@
 
 ### [cra-template-aws-amplify](js/cra-template-aws-amplify/README.md)
 
-```bash
-npx create-react-app my-amplify-app --template aws-amplify
-```
+Basic template that installs the `latest` version of AWS Amplify, and adds the configuration step to `index.js`. Configuring your Amplify app (running `amplify init`, etc) must be done separately.
 
 ## Reference
 
