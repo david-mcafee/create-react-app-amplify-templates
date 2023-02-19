@@ -8,7 +8,7 @@
 
 Basic template that installs the `latest` version of AWS Amplify, and adds the configuration step to `index.js`. Configuring your Amplify app (running `amplify init`, etc) must be done separately.
 
-### [cra-template-aws-amplify-typescript](js/cra-template-aws-amplify-typescript/README.md)
+### [cra-template-aws-amplify-typescript](ts/cra-template-aws-amplify-typescript/README.md)
 
 Basic TypeScript template that installs the `latest` version of AWS Amplify, and adds the configuration step to `index.js`. Configuring your Amplify app (running `amplify init`, etc) must be done separately.
 
